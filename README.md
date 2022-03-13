@@ -4,5 +4,5 @@ This manifesto is an attempt to summarize, in an organized way, the intentions, 
 This manifesto have been written directly on github in order to allow anyone to discuss and contribute to it, now and in the future.
 
 
-[manifesto.md]
+# [Manifesto](manifesto.md)
 
