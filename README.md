@@ -13,7 +13,7 @@ The first and foremost goal is to share knowledge with others. Implicitly creati
     
     
     
-#### unrolled ideas:     
+#### zipped ideas:     
 (Intelligence is the coolest riddle.)     
 Curiosity is paramount.     
 Continuous learning is a need.     
