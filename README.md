@@ -4,5 +4,20 @@ This manifesto is an attempt to summarize, in an organized way, the intentions, 
 This manifesto have been written directly on github in order to allow anyone to discuss and contribute to it, now and in the future.
 
 
-[Manifesto](https://github.com/iaml-it/manifesto.iaml.it/edit/main/manifesto.md)
+
+
+## Manifesto
+
+Is in the passion for knowledge, and the love for sharing, that the communities organize themselves and their activities.    
+The first and foremost goal is to share knowledge with others. Implicitly creating growth opportunities for all.    
+    
+    
+    
+#### unrolled ideas:     
+(Intelligence is the coolest riddle.)     
+Curiosity is paramount.     
+Continuous learning is a need.     
+Machine learning is the most promising way.     
+Collaborative is better than competitive.     
+
 
