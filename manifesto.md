@@ -13,5 +13,3 @@ Machine learning is the most promising way.
 Collaborative is better than competitive.     
 
 
-
-
