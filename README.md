@@ -12,11 +12,8 @@ The first and foremost goal is to share knowledge with others. Implicitly creati
     
     
     
-### zipped ideas:     
-( wide array of STEM topics, but correlated )
-(Intelligence is the coolest riddle.)     
-Curiosity is paramount.     
-Continuous learning is a need.     
+### ideas:     
+wide array of STEM topics, but correlated
 Machine learning is the most promising way.     
 Collaborative is better than competitive.     
 
